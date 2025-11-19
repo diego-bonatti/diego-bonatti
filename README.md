@@ -7,11 +7,11 @@
 - **PenTesting & OSINT:** Nmap, Metasploit, Sherlock, Hydra, Burpsuite, John The Ripper, Hashcat.
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diego-bonatti&show_icons=true&theme=tokyonight)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/dbonatti.png)](https://tryhackme.com/p/diego-bonatti)  
 
 ---
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/dbonatti.png)](https://tryhackme.com/p/diego-bonatti)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diego-bonatti&show_icons=true&theme=tokyonight)
+
 
 
