@@ -1,4 +1,4 @@
-🎓 Studente di CyberSecurity & Digital Forensics @ UNIMORE
+🎓 Studente di CyberSecurity & Digital Forensics @ UNIMORE  
 🔍 Appassionato di investigazioni digitali, OSINT e PenTesting  
 
 ## 🛠️ Competenze
