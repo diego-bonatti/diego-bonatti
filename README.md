@@ -7,7 +7,7 @@
 - **Forensics Tools:** Autopsy, EZ tools, Cyberchef, KAPE, FTK Imager, Wireshark.
 - **PenTesting & OSINT:** Nmap, Metasploit, Sherlock, Hydra, Burpsuite, John The Ripper, Hashcat.
 
-## 📬 Contatti   
+## 📬 Contatti  
 📧 Email professionale: diego.bonatti.fdi@gmail.com  
 
 ---
