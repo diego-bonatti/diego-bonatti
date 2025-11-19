@@ -1,5 +1,5 @@
-🎓 Studente di CyberSecurity @ UNIMORE
-🔍 Appassionato di investigazioni digitali, OSINT e PenTesting
+🎓 Studente di CyberSecurity @ UNIMORE  
+🔍 Appassionato di investigazioni digitali, OSINT e PenTesting  
 
 ## 🛠️ Competenze
 - **Linguaggi:** Python, Bash, C, C++.
