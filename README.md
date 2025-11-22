@@ -14,4 +14,4 @@
 
 ---
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/dbonatti.png)](https://tryhackme.com/p/diego-bonatti)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/dbonatti.png)](https://tryhackme.com/p/dbonatti)
